@@ -16,6 +16,6 @@ defmodule Lasagna do
   end
 
   def alarm() do
-    "Ding!"
+    "Ding"
   end
 end
